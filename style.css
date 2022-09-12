@@ -1,0 +1,50 @@
+body{
+    background: #33AFFF;
+    font: normal 17pt Arial;
+}
+
+header{
+    color: #ffffff;
+    text-align: center;
+   padding: 18px;
+}
+
+input{
+    font: 25px Arial;
+    text-align: center;
+    border-radius: 10px 20px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.232) ;
+    border: #ffffff;
+
+}
+
+section{
+    font-size: 28px;
+    background-color: rgba(255, 255, 255, 0.364) ;
+    border-radius: 10px 20px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.454);
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+}
+
+img{
+    border-radius: 20px;
+    padding: 5px;
+}
+
+footer{
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
